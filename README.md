@@ -1,7 +1,7 @@
 # CS231n
-CS231n Convolutional Neural Networks for Visual Recognition
-These are my backups of the practice exercise on CS231n materials.
-Since I was new to numpy and running through these exercise in a rush, some of them were not my original work.
+CS231n Convolutional Neural Networks for Visual Recognition<br>
+These are my backups of the practice exercise on CS231n materials.<br>
+Since I was new to numpy and running through these exercise in a rush, some of them were not my original work.<br>
 Credit to: Cthorey (https://github.com/cthorey/CS231)
 
 Set up Notes:
